@@ -1,2 +1,0 @@
-# ReactMultiStepForm
-Created with CodeSandbox
